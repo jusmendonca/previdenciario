@@ -3,9 +3,9 @@ project:
 
 website: 
   page-navigation: true
-  title: "NOAA quarto simple" 
-  site-url: "https://nmfs-opensci.github.io/NOAA-quarto-simple" 
-  repo-url: "https://github.com/nmfs-opensci/NOAA-quarto-simple"
+  title: "Lições de Direito Previdenciário" 
+  site-url: "https://jusmendonca.github.io/previdenciario/" 
+  repo-url: "https://github.com/jusmendonca/previdenciario.git"
   repo-actions: [edit, source, issue]
   favicon: images/favicon.ico
   
@@ -21,30 +21,41 @@ website:
     align: center
     tools: 
       - icon: globe
-        href: https://nmfs-opensci.github.io
-        text: "NMFS Open Science"
+        href: https://jusmendonca.github.io/previdenciario/
+        text: "Página inicial"
       - icon: github
-        href: https://github.com/nmfs-opensci
-        text: "NMFS OpenSci"
+        href: https://github.com/jusmendonca
+        text: "GitHub"
 
     style: "docked"
     search: true
     collapse-level: 1
     contents:
       - href: index.qmd
-        text: Home
-      - href: content/add-content.qmd
-        text: Add content
-      - href: content/customizing.qmd
-        text: Customizing
-      - href: content/rendering.qmd
-        text: Rendering
-      - href: content/rmarkdown.Rmd
-        text: R Markdown files
-      - href: content/code.qmd
-        text: Code in your files
-      - href: content/acknowledgements.qmd
-        text: Acknowledgements
+        text: Início
+        
+      - section: "Introduçao do Direito Previdenciário"
+        contents: 
+        - href: content/01-objeto.qmd
+          text: Objeto de Estudo
+        - href: content/02-relacao.qmd
+          text: Relação com outros ramos do Direito
+        - href: content/03-fontes.qmd
+          text: Fontes
+        - href: content/04-historico.qmd
+          text: Breve histórico
+        - href: content/05-exercicios.qmd
+          text: Exercícios de fixação
+      - section: "Disposições constitucionais sobre a seguridade social"
+        contents:
+        - href: content/05-principios.qmd
+          ext: Princípios constitucionais da seguridade social
+
+
+      - section: "Sobre o site"
+        contents: 
+        - href: content/acknowledgements.qmd
+          text: Agradecimentos
 
 format:
   html:
