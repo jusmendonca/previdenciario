@@ -1,0 +1,183 @@
+---
+title: Fontes
+---
+
+## Conceito
+
+"Fonte do direito" é um conceito de Teoria Geral do Direito que remonta à origem da produção normativa. Norberto Bobbio[^1] conceitua fontes do direito como "aqueles fatos e aqueles atos dos quais o ordenamento jurídico faz decorrer a produção de normas jurídicas."
+
+[^1]: BOBBIO. Norberto. **Teoria do Ordenamento Jurídico.** 2 ed. São Paulo: Edipro, 2014, p. 55.
+
+Costuma-se fazer uma distinção entre fontes formais e fontes materiais. Formais são aquelas fontes que exteriorizam o direito e independem do conteúdo das normas produzidas. Já fontes materiais são os "acontecimentos históricos sociológicos, econômicos e políticos que dão origem às normas jurídicas" e que envolvem "os fatores sociais que condicionaram o surgimento da norma jurídica, ou seja, as razões (históricas, econômicas e políticas) que influenciaram a criação das normas do Direito."[^2]
+
+[^2]: GARCIA, Gustavo F. B. **Manual de Direito Previdenciário**. 6. ed. Salvador: Editora Juspodivm, 2022, p. 45.
+
+O conceito de "fontes materiais", no entanto, parece-nos muito amplo e não propriamente jurídico, o que retira sua utilidade para os objetivos deste estudo. Dessa maneira, nos ocuparemos adiante das chamadas fontes formais do direito.
+
+## Fontes primárias e secundárias do Direito Previdenciário
+
+Na tradição jurídica europeia continental, da qual somos seguidores, admite-se que a fonte (formal) do direito por excelência é a legislação. É o próprio ordenamento jurídico que disciplina a produção normativa através de regras de competência.
+
+Essa concepção impõe considerar como fontes primárias[^3] do Direito Previdenciário, no Direito brasileiro:
+
+[^3]: GOES, Hugo. **Manual de Direito Previdenciário.** São Paulo: Grupo GEN, 2022.
+
+-   a Constituição Federal;
+
+-   as emendas à Constituição;
+
+-   as leis complementares;
+
+-   as leis ordinárias;
+
+-   as leis delegadas;
+
+-   as medidas provisórias;
+
+-   os decretos legislativos;
+
+-   as resoluções (do Senado Federal).
+
+São também consideradas fontes primárias do Direito Previdenciário, embora não estejam elencados no art. 59 da Constituição, mas nos artigos 49, I, e 84, VIII :
+
+-   os tratados e convenções internacionais.
+
+As espécies normativas acima relacionadas (com a exceção óbvia da própria Constituição Federal), estão previstas no art. 59 do texto constitucional, que dispõe sobre o processo legislativo. Porém, essas não são as únicas fontes do Direito Previdenciário reconhecidas.
+
+A doutrina ainda considera a existência de fontes secundárias, assim chamadas porque são subordinados às fontes primárias e visam a torná-las operativas. São fontes secundárias do Direito Previdenciário:
+
+-   os atos administrativos normativos (decretos, regulamentos, portarias, instruções normativas, ordens de serviço, orientações normativas, circulares, resoluções administrativas etc).
+
+Reconhecem-se, também, como fontes do direito, a partir da promulgação da Emenda Constitucional n.º 45/2004:
+
+-   as súmulas vinculantes.
+
+Adiante, trataremos das fontes acima citadas e de sua importância na construção do Direito Previdenciário brasileiro.
+
+### Constituição Federal
+
+Como já foi dito, o Direito Previdenciário é um ramo jurídico altamente constitucionalizado. A seguridade social é regulada pelos artigos 194 a 195 da Constituição; a previdência, pelos artigos 201 e 202 e a assistência pelos artigos 203 e 204. Além disso, o art. 40 da Constituição dispõe sobre o regime próprio de previdência social dos servidores públicos ocupantes de cargos efetivos; o art. 142, § 3º, inciso X, delega à lei (ordinária) o regramento da proteção previdenciária dos militares das Forças Armadas e o art. 42, § 1º, delega à lei específica estadual a normatização da previdência dos militares dos Estados.
+
+O direito à previdência social e à assistência aos desamparados é um direito fundamental previsto no art. 6º, caput, da Constituição Federal e seu art. 7º estabelece, como direitos dos trabalhadores urbanos e rurais diversas prestações de natureza previdenciária (seguro-desemprego, salário-família, licença à gestante "sem prejuízo do emprego e do salário" e aposentadoria - incisos II, XII, XVIII XXIV).
+
+Em razão disso, quando se trata de previdência e assistência social, cuida-se de um arcabouço normativo que desenvolve direitos fundamentais, fato que condiciona a interpretação de seus princípios e regras, como veremos adiante.
+
+### Emendas à Constituição
+
+Como várias regras do texto constitucional dispõem sobre matéria de Direito Previdenciário, as reformas na área de assistência e previdência sociais costumam ser feitas através de emendas à Constituição.
+
+Não raras vezes, as próprias emendas devem ser objeto de estudo, pois instituem regras que não são incluídas no texto constitucional nem modificam seus artigos, mas também possuem hierarquia constitucional. Veja-se, por exemplo, a Emenda Constitucional 103/2019. Essa Emenda, que veiculou a mais recente reforma da previdência, possui trinta e seis artigos. Somente o primeiro deles modifica ou inclui dispositivos na Constituição Federal; os demais instituem regras próprias, que não se encontram no texto da Constituição, a exemplo daquelas que estabelecem regras de transição.
+
+### Leis complementares
+
+As leis complementares devem ser aprovadas por maioria absoluta dos membros de cada Casa do Congresso Nacional (art. 69 da Constituição). Algumas matérias são reservadas à lei complementar, presumivelmente, em razão da necessidade de maior debate parlamentar.
+
+As matérias de previdência e assistência social não exigem, a priori, regulamentação através de lei complementar. No entanto, algumas questões específicas de Direito Previdenciário são reservadas a essa espécie legislativa. Os exemplos mais notáveis são:
+
+-   a criação de contribuições sociais residuais, ou seja, aquelas que não estejam previstas no art. 195, *caput*, I a IV, da Constituição, somente podem ser criadas por lei complementar (art. 195, § 4º, c/ o art. 154, I, ambos da Constituição);
+
+-   a definição de tratamento tributário diferenciado e favorecido para as microempresas e para as empresas de pequeno porte, inclusive regimes especiais ou simplificados de recolhimento de tributos, que incluem as contribuições para a seguridade social do art. 195, I, da Constituição (art. 146, III, d);
+
+-   o regime de previdência privada, de caráter complementar e organizado de forma autônoma em relação ao regime geral de previdência social (art. 202, *caput*);
+
+-   a relação entre a União, Estados, Distrito Federal ou Municípios, inclusive suas autarquias, fundações, sociedades de economia mista e empresas controladas direta ou indiretamente, enquanto patrocinadores de planos de benefícios previdenciários, e as entidades de previdência complementar (art. 202, § 4º);
+
+-   os requisitos para a designação dos membros das diretorias das entidades fechadas de previdência complementar instituídas pelos patrocinadores de que trata o § 4º do art. 202 e disciplinar a inserção dos participantes nos colegiados e instâncias de decisão em que seus interesses sejam objeto de discussão e deliberação (art. 202, § 6º).
+
+### Leis ordinárias
+
+Quando sobre a matéria previdenciária não pender reserva de lei complementar, ela poderá ser regulada por lei ordinária. A lei ordinária, para ser aprovada, exige apenas maioria dos votos de cada Casa, "presente a maioria absoluta de seus membros" (art. 47 da Constituição).
+
+São exemplos de questões importantes de Direito Previdenciário reguladas por leis ordinárias:
+
+-   a organização da seguridade social e seu plano de custeio (Lei 8.212/91, que possui fundamento tanto no art. 201, *caput*, quanto no art. 149 da Constituição);
+
+-   o plano de benefícios do regime geral de previdência social (Lei 8.213/91, que possui fundamento no art. 201, *caput*, da Constituição);
+
+-   o organização da assistência social (Lei 8.8742/93).
+
+Sempre que uma matéria deva ser regulada "na forma da lei", a Constituição estará se referindo à lei ordinária.
+
+### Leis delegadas
+
+O art. 68 da Constituição dispõe que "As leis delegadas serão elaboradas pelo Presidente da República, que deverá solicitar a delegação ao Congresso Nacional." Atualmente, no plano federal, desconhecem-se leis delegadas em matéria previdenciária, mas não há uma vedação nesse sentido.
+
+### Medidas provisórias
+
+Dispõe o art. 62, caput, da Constituição que, "Em caso de relevância e urgência, o Presidente da República poderá adotar medidas provisórias, com força de lei, devendo submetê-las de imediato ao Congresso Nacional." Enquanto vigentes, as medidas provisórias possuem hierarquia idêntica à das leis ordinárias.
+
+O § 1º do mesmo dispositivo veda a edição de medidas provisórias sobre certas matérias, mas não há uma vedação genérica à edição de medidas provisórias em matéria previdenciária. Aliás, várias delas já dispuseram sobre previdência social.[^4]
+
+[^4]: Por exemplo, MP [\\2.187-1](https://www.planalto.gov.br/ccivil_03/MPV/2187-13.htm#art4)3/2001, 316/2006, 410/2007, 413/2008, 449/2008, [\\1.113](https://www.planalto.gov.br/ccivil_03/_Ato2019-2022/2022/Mpv/mpv1113.htm#art2)/2022...
+
+Porém, o inciso III do § 1º proíbe a edição de medidas provisórias quando a matéria estiver reservada a lei complementar. E, como vimos, algumas das questões de Direito Previdenciário possuem essa reserva.
+
+### Decretos legislativos
+
+Os decretos legislativos são atos normativos exarados pelo Congresso Nacional no uso de sua competência exclusiva e não estão sujeitos à sanção presidencial.
+
+Em matéria previdenciária, pode-se fazer menção a dois tipos de decretos legislativos:
+
+-   os que aprovam tratados internacionais firmados pelo Presidente da República (art. 49, I, da Constituição);
+-   os que disciplinam as relações jurídicas regidas por uma medida provisória que perde sua eficácia (art. 62, § 3º).
+
+### Resoluções do Senado Federal
+
+As resoluções são normas que integram o processo legislativo. Há resoluções da Câmara, do Senado e do Congresso Nacional.
+
+No Direito Previdenciário, ganham destaque as resoluções do Senado que suspendem a execução, no todo ou em parte, de lei declarada inconstitucional por decisão definitiva do Supremo Tribunal Federal em controle difuso de constitucionalidade (art. 52, X, da Constituição). Um exemplo é a Resolução do Senado Federal n.º 26/2005, que suspendeu a execução da alínea "h", inciso I, do art. 12, da Lei n.º 8.212/91, após a declaração de inconstitucionalidade do dispositivo, pronunciada pelo STF no julgamento do RE 351.717-1.[^5]
+
+[^5]: Esse julgado, porém, já foi superado pelo Supremo no julgamento do RE 626837.
+
+### Tratados e convenções internacionais
+
+Os tratados e convenção internacionais, para que entrem em vigor internamente, dependem: (i) da celebração pelo Presidente da República; (ii) da aprovação pelo Congresso Nacional, conforme o art. 84, VIII, CRFB, via decreto legislativo; (iii) da ratificação, pelo Presidente da República, mediante depósito do instrumento respectivo e (iv) da promulgação, pelo Presidente da República, mediante decreto presidencial, seguindo-se a publicação oficial do texto do tratado.[^6]
+
+[^6]:
+    v.  STF, CR 8279 AgR, Rel. Min. Celso de Mello, DJ 10/08/2000.
+
+A Lei n.º 8.212/1991, art. 85-A, estabelece que os tratados, convenções e outros acordos internacionais de que Estado estrangeiro ou organismo internacional e o Brasil sejam partes, e que versem sobre matéria previdenciária, serão interpretados como "lei especial."
+
+Os tratados mais importantes em matéria previdenciária são aqueles que estabelecem acordos multilaterais e bilaterais que possuem como principal objetivo garantir que os trabalhadores que trabalham em um Estado-parte possam ter seus períodos contributivos reconhecidos nos outros para fins de concessão de prestações previdenciárias.[^7]
+
+[^7]: V. Relação de tratados em vigor em \<https://www.gov.br/trabalho-e-previdencia/pt-br/assuntos/acordos-internacionais/acordos-internacionais\>.
+
+### Atos administrativos normativos
+
+Ensina José dos Santos Carvalho Filho[^8] que os atos administrativos podem ser classificados, quanto aos destinatários, em gerais e individuais. Os atos gerais, também chamados de atos normativos, "são aqueles que regulam uma quantidade indeterminada de pessoas que se encontram na mesma situação jurídica." Prossegue dizendo que "Os atos gerais ou normativos são considerados como de natureza legislativa, por trazerem em si os aspectos de generalidade, abstração e impessoalidade. Submetem-se, por isso, em alguns casos, ao controle concentrado da constitucionalidade, como deflui do art. 102, I, "a", da CF."
+
+[^8]: FILHO, José dos Santos C. **Manual de Direito Administrativo.** São Paulo: Grupo GEN, 2022. *E-book*, p. 156.
+
+Para nós, interessam os atos administrativos que regulamentam disposições legais. A cadeia hierárquica desses atos, tem origem no poder regulamentar conferido ao Presidente da República pelo art. 84, IV, da Constituição. Logo abaixo nessa escala está a competência regulamentar conferida aos Ministros de Estado pelo art. 87, II, CRFB. Os atos exarados em decorrência desse poder regulamentar devem estrita observância à lei e servem apenas para torná-la operativa.
+
+No Direito Previdenciário, podem-se citar como exemplos de atos administrativos normativos de grande importância:
+
+-   o Decreto 3.048/99, que aprovou o Regulamento da Previdência Social;
+-   o Decreto 6.214/2007, que regulamentou o benefício de prestação continuada da Lei Orgânica de Assistência Social);
+-   a Instrução Normativa INSS/PRES 128/2022, que disciplina as regras, procedimentos e rotinas necessárias à efetiva aplicação das normas de Direito Previdenciário.
+
+### Súmulas vinculantes
+
+Reconhece-se, ainda, que as súmulas vinculantes são fontes do direito, haja vista que o art. 103-A da Constituição Federal (incluído pela EC 45/2004) confere ao Supremo Tribunal Federal a prerrogativa de editá-las "de ofício ou por provocação, mediante decisão de dois terços dos seus membros, após reiteradas decisões sobre matéria constitucional".
+
+Essas súmulas possuem, após sua publicação na imprensa oficial, "efeito vinculante em relação aos demais órgãos do Poder Judiciário e à administração pública direta e indireta, nas esferas federal, estadual e municipal." Na medida em que as súmulas vinculantes são enunciados que se referem à interpretação constitucional ou à interpretação da legislação infraconstitucional tendo como parâmetro a Constituição, parece mais adequado dizer que se trata, também, de fonte secundária.
+
+Jurisprudência, doutrina e costumes
+
+Embora a doutrina majoritária trabalhe com esse conceito mais restrito de fontes, de matriz positivista-normativista, pode-se defender um conceito mais amplo, que abarque outras espécies.
+
+Alf Ross, expoente do realismo escandinavo, afirma que se deve recorrer a um conceito menos preciso de fontes, que abarque todos os elementos dos quais o juiz extrai a matéria-prima para elaborar as regras de que necessita para decidir. Para Ross[^9], por "fontes do direito" entende-se "o conjunto de fatores ou elementos que exercem influência na formulação do juiz da regra na qual ele funda sua decisão" (sic). Esse conceito, bastante amplo, permite considerar fontes do direito outros fatores, como a jurisprudência, a doutrina e os costumes.
+
+[^9]: ROSS, A. **Direito e justiça.** 1. reimpressão ed. Bauru: Edipro, 2003, p. 103.
+
+A jurisprudência é o conjunto de decisões, em um mesmo sentido, de algum órgão jurisdicional. Em certos casos -- para além da súmula vinculante, já citada -- a jurisprudência é de seguimento obrigatório, conforme o art. 927 do Código de Processo Civil. O Novo Código de Processo Civil adotou um modelo de precedentes obrigatórios, aproximando nosso sistema daqueles sistemas de commom law. Porém, com a exceção da súmula vinculante, somente os juízes e tribunais estão obrigados a seguir, em seus julgamentos, a jurisprudência dos tribunais nas hipóteses elencados no art. 927. A súmula vinculante, por sua vez, possui efeitos obrigatórios também para "a administração pública direta e indireta, nas esferas federal, estadual e municipal" (art. 103-A da Constituição).
+
+A doutrina, por sua vez, é a produção científica dos doutos em determinada matéria. Em geral, não é considerada fonte do direito em uma perspectiva normativista. Riccardo Guastini[^10], no entanto, defende que é impossível, ou pouco realista, traçar uma distinção entre a linguagem do legislador e a dos juristas. Para ele, a doutrina é uma parte do próprio Direito, uma vez que possui um discurso não somente interpretativo, mas também construtivo, podendo ser apresentada como um conjunto de diretivas de sententia ferenda. Guastini afirma que, entre o discurso dos juristas e do legislador, existe um "contínuo processo osmótico" que impõe considerar a doutrina também como fonte do direito.
+
+[^10]: GUASTINI, Riccardo. El realismo jurídico redefinido. *In* **Otras distinciones**. Externado, Bogotá: 2014.
+
+Os costumes não são considerados fontes do Direito Previdenciário, para muitos doutrinadores.[^11] Tais autores, quando o fazem, justificam-se pelo caráter público das normas previdenciárias e pela vinculação estrita do administrador público, na medida em que este é obrigado a fazer apenas aquilo que a lei determina (princípio da legalidade). No entanto, essa justificativa não parece excluir o caráter supletivo dos costumes, proclamado pelo art. 4º da LINDB, também em matéria previdenciária. Por outro lado, a utilização do costume não pode resultar na criação, extensão, ou majoração de prestações previdenciárias, o que somente pode ser feito por lei que preveja a correspondente fonte de custeio total (art. 195, § 5º, c/c art. 201, caput, ambos da CF).
+
+[^11]: Afastando expressamente os costumes como fontes do Direito Previdenciário, DIAS, Eduardo R.; MACÊDO, José Leandro Monteiro de. **Curso de Direito Previdenciário.** 3ª edição. São Paulo: Grupo GEN, 2012. *E-book,* p. 61; LAZZARI, João B.; CASTRO, Carlos Alberto Pereira de. **Direito Previdenciário.** São Paulo: Grupo GEN, 2021. *E-book,* p. 34; GARCIA, Gustavo F. B. **Manual de Direito Previdenciário**. 6. ed. Salvador: Editora Juspodivm, 2022, p. 44. Outros, porém, elencam as fontes do direito reconhecidas e ignoram os costumes: VIANNA, João Ernesto A. **Direito Previdenciário.** São Paulo: Grupo GEN, 2022. *E-book*, p. 49; GOES, Hugo. Manual de **Direito Previdenciário.** São Paulo: Grupo GEN, 2022. E-book, p. 78.
+
+De toda forma, salienta-se que a jurisprudência, a doutrina e os costumes não são, para a doutrina majoritária, fontes do Direito Previdenciário.

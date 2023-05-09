@@ -1,0 +1,107 @@
+---
+title: Exercícios de fixação
+---
+
+## 1. (AFPS/ESAF/2002) Assinale a opção correta entre as assertivas abaixo relacionadas à gestão da Seguridade Social, nos termos da Constituição Federal.
+
+a) A gestão da Seguridade Social ocorre de forma centralizada, monocrática, quadripartite.
+b) A gestão da Seguridade Social ocorre de forma descentralizada, monocrática, quadripartite.
+c) A gestão da Seguridade Social ocorre de forma centralizada, colegiada, quadripartite.
+d) A gestão da Seguridade Social ocorre de forma descentralizada, colegiada, tripartite.
+e) A gestão da Seguridade Social ocorre de forma descentralizada, colegiada, quadripartite.
+
+## 2. (AFPS/ESAF/2002) Pedro, menor carente, de 12 anos, e Paulo, empresário bem-sucedido, de 21 anos, desejam participar de programas assistenciais (Assistência Social) e de saúde pública (Saúde).
+De acordo com a situação-problema apresentada acima, é correto afirmar que:
+
+a) Pedro e Paulo podem participar da Assistência Social.
+b) Só Pedro pode participar da Saúde.
+c) Pedro só pode participar da Assistência Social.
+d) Paulo pode participar da Assistência Social.
+e) Pedro e Paulo podem participar da Saúde.
+
+## 3. (PFN/ESAF/2006) Quanto aos princípios constitucionais da Seguridade Social, é correto afirmar.
+
+a) a universalidade da cobertura e do atendimento significa a cobertura de todos os riscos, chamados riscos sociais, que podem atingir as pessoas que vivem em sociedade e que todos os residentes e domiciliados no território nacional -- brasileiros e estrangeiros -- devem ser atendidos pelo Sistema de Seguridade Social.
+b) a seletividade refere-se à escolha dos beneficiários que serão atendidos pelo Sistema da Seguridade Social, enquanto que a distributividade define o papel de distribuição efetiva de renda reconhecido à Seguridade Social.
+c) o princípio da irredutibilidade do valor dos benefícios, segundo a orientação do Supremo Tribunal Federal, significa a irredutibilidade do valor real, protegendo-os do fenômeno inflacionário.
+d) o princípio da uniformidade e equivalência dos benefícios e serviços às populações urbanas e rurais não abrange o valor econômico dos benefícios do trabalhador rural, que podem ser menores em razão das características do trabalho desenvolvido, conforme legislação própria.
+e) a garantia do caráter democrático e descentralizado da administração é o princípio materializado na gestão tripartite -- empregadores, aposentados e Governo -- nos órgãos colegiados.
+
+## 4. (Fiscal/INSS/Cespe/1998) A respeito da seguridade social e de seus princípios informativos, julgue os itens a seguir.
+
+I. O princípio da preexistência do custeio em relação ao benefício ou serviço admite apenas uma única exceção, identificável nas prestações da assistência social, para cujo acesso não há necessidade de qualquer contribuição por parte do segurado.
+II. O princípio da tríplice forma de custeio, que estatui a obrigação dos entes públicos, empregados e empregadores para a seguridade social, admite, como única exceção, a receita dos concursos de prognósticos, facultando-se à União, mediante lei complementar, instituição de outras contribuições, a partir de fatos geradores contemplados pela legislação fiscal.
+III. As contribuições sociais destinadas ao custeio da seguridade social apenas serão exigíveis no exercício seguinte ao da publicação da lei que as houver instituído ou modificado, de acordo com o princípio da anualidade, que limita o poder de tributar.
+Os itens que estão errados são:
+a) I e II
+b) II e III
+c) I e III
+d) todos
+e) nenhum
+
+## 5. (Técnico Previdenciário/INSS/Cesgranrio/2005) A seguridade social compreende um conjunto integrado de ações de iniciativa dos poderes públicos e da sociedade, destinado a assegurar os direitos relativos a:
+
+I.saúde;
+II.educação;
+III.habitação;
+IV.assistência social;
+V.previdência social. 
+Estão corretos os itens:
+
+a) IV e V apenas.
+b) I, II e V apenas.
+c) I, IV e V apenas.
+d) II, III e IV apenas.
+e) I, II, III e IV apenas.
+
+## 6. (Receita Federal/ESAF/2012) Assinale a opção incorreta. Compete ao Poder Público, nos termos da lei, organizar a seguridade social, com base nos seguintes objetivos:
+
+a) universalidade da cobertura e do atendimento.
+b) prevalência dos benefícios e serviços às populações rurais.
+c) seletividade e distributividade na prestação dos benefícios e serviços.
+d) irredutibilidade do valor dos benefícios.
+e) equidade na forma de participação no custeio.
+
+## 7. (TRF-5ª/FCC/2012) Considerando as normas constitucionais que tratam do financiamento da Seguridade Social, os benefícios ou os serviços que são por ela prestados poderão ser criados, majorados ou estendidos
+
+a) sem que haja a previsão da correspondente fonte de custeio total.
+b) desde que haja a previsão da correspondente fonte de custeio total.
+c) desde que haja a previsão da correspondente fonte de custeio total, apenas para os benefícios e os serviços prestados pela previdência social.
+d) sem que haja a previsão da correspondente fonte de custeio total, exceto para os serviços de assistência à saúde, cuja criação, majoração ou extensão dependem da previsão de fonte de custeio total.
+e) desde que haja a previsão da correspondente fonte de custeio total, apenas para os benefícios e serviços prestados pela assistência social.
+
+## 8. (Analista/TRF da 3ª Região/FCC/2007) Ao se conceder o benefício assistencial da renda vitalícia ao idoso ou ao deficiente sem meios de subsistência estará sendo aplicado, especificamente, o princípio da:
+
+a) Equidade na forma de participação no custeio.
+b) Universalidade do atendimento.
+c) Universalidade da cobertura.
+d) Distributividade na prestação dos benefícios e serviços.
+e) Diversidade da base de financiamento.
+
+## 9. (TRT-5ª/Cespe/2013) Excetuados determinados setores da economia, verifica-se, no financiamento da seguridade social, que os empregadores, em geral, pagam uma contribuição previdenciária incidente sobre folha de remuneração de pessoal, em percentual superior ao deduzido dos vencimentos dos trabalhadores respectivos.
+
+Essa diferenciação decorre:
+
+a) da igualdade de contribuintes.
+b) da seletividade tributária.
+c) da equivalência de benefícios.
+d) da individuação das participações nos custos.
+e) da equidade na forma de participação no custeio.
+
+## 10. (Procurador Federal/Cespe/2004) Julgue os seguintes itens:
+
+I. A universalidade da cobertura e do atendimento implica que qualquer pessoa pode participar da proteção social patrocinada pelo Estado. Em relação à previdência social, o caráter contributivo restringe essa abrangência apenas àqueles que contribuem para o sistema. Por esse motivo, foi criado o segurado facultativo, com vistas a atender ao mandamento constitucional.
+II. Decorre do princípio da equidade na forma de participação no custeio, a possibilidade de as contribuições do empregador, da empresa ou de entidade a ela equiparada poderem ter alíquotas ou bases de cálculo diferenciadas, em razão da atividade econômica ou da utilização intensiva de mão de obra.
+III. A solidariedade é princípio fundamental que norteia o sistema de seguridade social, possibilitando que aqueles que têm melhores condições financeiras contribuam com uma parcela maior para o financiamento do bem-estar de toda a coletividade.
+
+Os itens que estão certos são:
+
+a) I e II
+b) II e III
+c) I e III
+d) todos
+e) nenhum
+
+## Gabarito
+
+ 1E 2E 3A 4D 5C 6B 7B 8D 9E 10D

@@ -1,0 +1,77 @@
+---
+title: Relação com os outros ramos do Direito
+---
+
+Embora o Direito Previdenciário possua autonomia normativa, científica e didática, diversos outros ramos do Direito se relacionam com este. O conhecimento prévio da história, dos principais institutos e normas fundamentais desses outros ramos possibilita um melhor entendimento do Direito Previdenciário.
+
+### Direito Previdenciário e Direito Constitucional
+
+No Brasil, não há ramo do Direito que tenha ficado imune ao processo de constitucionalização. O Direito Previdenciário, por exemplo, é  especialmente constitucionalizado. Isso significa que muitos dos seus princípios e regras são encontrados no texto constitucional. Nossa Constituição é bastante prolixa em matéria previdenciária e várias emendas constitucionais reformaram a previdência social.
+
+Além disso, o conhecimento da dogmática constitucional é indispensável, uma vez que os direitos subjetivos às prestações da seguridade social possuem natureza de direitos fundamentais[^fn1].
+
+### Direito Previdenciário e Direito Administrativo
+
+A relação jurídica entre os os destinatários das prestações da seguridade social e os entes públicos que executam as políticas nessa área é uma relação de natureza administrativa, ou seja, é regida por normas derrogatórias e exorbitantes do direito comum. Não há, por exemplo, margem para que um trabalhador negocie as cláusulas de sua proteção previdenciária.
+
+Relaciona-se com o Direito Administrativo, também, o regramento do processo administrativo para a concessão e revisão dos benefícios previdenciários e assistenciais, que possui disposições próprias, mas ao qual se aplica, subsidiariamente, a Lei do Processo Administrativo Federal (Lei 9.784/1999).
+
+São também matérias típicas de Direito Administrativo a organização e a competência dos entes formuladores e executores das políticas públicas no âmbito da seguridade social (ministérios, autarquias etc). 
+
+Existem, ainda, convênios e outros ajustes firmados entre entidades privadas e entes públicos para a promoção das políticas públicas da seguridade social, regidos pelo Direito Administrativo (V., por exemplo, a Lei 9.637/1998 e a Lei 9.790/1999).
+
+### Direito Previdenciário e Direito Tributário
+
+As contribuições sociais estão inseridas no sistema tributário nacional  e a elas se aplicam -- além das disposições constitucionais -- as normas gerais do Código Tributário Nacional (recebido com status de lei complementar), nos termos do art. 149 c/c o art. 146, III, da Constituição.
+
+Deve-se atentar, porém, que o Instituto Nacional do Seguro Social (INSS), autarquia federal responsável por operar o regime geral de previdência social, não mais possui capacidade tributária ativa. Desde a Lei  11.457/2007 (art. 2º), o ente que fiscaliza, arrecada e cobra as contribuições sociais previdenciárias é própria União, através da Secretaria da Receita Federal do Brasil, órgão do Ministério da Fazenda.
+
+### Direito Previdenciário e Direito do Trabalho
+
+O contrato individual de trabalho (art. 442 da CLT), que origina a relação de emprego, é um dos fatos geradores da relação jurídica previdenciária. O empregado é uma das espécies de segurados obrigatórios do regime geral de previdência social (art. 11, inciso I, da Lei 8.213/1991). Consequentemente, vários eventos relacionados ao contrato de trabalho são também fatos com repercussão previdenciária, como a incapacidade laboral, o acidente de trabalho, a despedida etc.
+
+Do mesmo modo, alguns eventos de natureza previdenciária possuem implicações trabalhistas, como é o caso da concessão de benefício por incapacidade ao acidentado do trabalho, que gera estabilidade provisória no emprego (art. 118 da Lei 8.213/1991).
+
+### Direito Previdenciário e Direito Civil
+
+Os conceitos doutrinários de prestação, de sujeito ativo e passivo de uma obrigação e de inadimplemento são exemplos de conceitos típicos  de Direito das Obrigações, disciplina do Direito Civil, que encontram uso no Direito Previdenciário.
+
+Do mesmo modo, toda a construção doutrinária civilista em torno da prescrição e da decadência é de grande importância para entender os prazos extintivos no Direito Previdenciário, regulados pelos arts. 103 a 105 da Lei 8.213/1991).
+
+O Direito de Família também possui relações com o Direito Previdenciário. A legislação previdenciária, quando trata da relação de dependência (art. 16 da Lei 8.213/1991) remete a vários conceitos daquela disciplina, como os de filiação, casamento, união estável, maioridade etc.
+
+Finalmente, algumas relações regradas pelo Direito Previdenciário possuem natureza contratual, como a que se dá entre os entes de previdência complementar privada e seus participantes. Devido à importância desse campo de atuação econômica, existe forte regulamentação estatal desses contratos (v. art. 202 da Constituição e Lei Complementar 109/2001).
+
+### Direito Previdenciário e Direito Penal
+
+O Direito Penal tipifica alguns crimes previdenciários: estelionato previdenciário (art. 171, § 3º, do Código Penal), apropriação indébita previdenciária (art. 168-A, CP), falsificação de documento público para fins previdenciários (art. 297, § 3º, CP) e sonegação fiscal previdenciária (art. 337-A, CP).
+
+Alguns conceitos básicos de Direito Penal também são utilizados pelo Direito Previdenciário, como os de dolo e de inimputabilidade (v., por exemplo, o art. 16, § 7º, da Lei 8.213/1991).
+
+### Direito Previdenciário e Direito Processual Civil
+
+Atualmente, o processo civil é visto como um instrumento de tutela substancial de direitos subjetivos, e não mais como uma mera sucessão de atos dirigida pelo fetiche formalista que, por vezes, impedia a aplicação do direito material ao caso concreto.
+
+Daí porque se diz que um dos princípios que vigoram no direito processual é o da adequação[^fn2], que prescreve uma modalidade de tutela diferenciada em função da natureza do direito material envolvido no processo.
+
+O princípio da adequação norteou, por exemplo, a criação do sistema dos Juizados Especiais Federais (Lei 10.259/2001), que objetivou dar resposta célere às inúmeras demandas ajuizadas na Justiça Federal, sendo a maioria delas de natureza previdenciária. Outro exemplo aplicação do princípio processual da adequação na seara previdenciária, em sua dimensão legislativa, é fornecido pela Lei 14.331/2022, que promoveu importantes alterações nos processos envolvendo benefícios previdenciários por incapacidade, através da inclusão do art. 129-A na Lei n.º 8.213/1991.
+
+Não há, a rigor, um “Processo Previdenciário” como procedimento autônomo. O que existem são disposições especiais que buscam adaptar o procedimento às exigências da tutela previdenciária, que envolve, na maioria das vezes, pessoas em situação de vulnerabilidade social. Com menos rigor terminológico, no entanto, costuma-se falar em “processo previdenciário” para aludir ao processo civil no qual a matéria discutida é de índole previdenciária ou assistencial.
+
+### Direito Previdenciário e ciências não jurídicas
+
+Este tópico não pretende exaurir as formas de diálogo entre o Direito Previdenciário e os demais ramos do Direito; pretende apenas demonstrar  a importância de se estudar a matéria com atenção aos conceitos fundamentais aprendidos nas outras disciplinas jurídicas, em especial aquelas que foram citadas nos itens precedentes.
+
+Da mesma forma, vários conhecimentos provenientes de ciências não jurídicas são importantes para o Direito Previdenciário, como a Ciência Atuarial (ramo da Matemática que se ocupa em avaliar riscos financeiros, especialmente no que toca a seguros e planos de previdência), a Economia (ciência social que estuda que a produção, distribuição, troca e consumo de bens e serviços em uma sociedade), a Medicina (ciência e arte que cuida do diagnóstico, tratamento e prevenção de doenças) etc.
+
+A litigância em matéria previdenciária é uma litigância de massa, no sentido de que existe sempre um grande volume de demandas envolvendo a matéria, sendo que muitas delas giram em torna das mesmas controvérsias. Dessa maneira, um campo de estudo interdisciplinar que tem angariado bastante interesse é o da Jurimetria. A Jurimetria pode ser definida como uma área interdisciplinar que se ocupa da aplicação de métodos quantitativos ao Direito[^fn3] e que utiliza ferramentas da Estatística e da Computação para modelar procedimentos e prever decisões judiciais.
+
+Tudo isso para dizer que o profissional do Direito, a cada dia mais, é chamado a possuir conhecimentos em várias outras áreas do saber humano, a fim de compreender seu próprio ramo de estudo e desempenhar bem o seu trabalho.
+
+[^fn1]: CRFB. Art. 6º São direitos sociais a educação, a **saúde**, a alimentação, o trabalho, a moradia, o transporte, o lazer, a segurança, a **previdência social**, a proteção à maternidade e à infância, a **assistência aos desamparados**, na forma desta Constituição (*grifos acrescidos ao original*).
+
+[^fn2]: “O princípio da adequação pode ser visualizado em três dimensões: a) legislativa, como informador da produção legislativa das regras processuais; b) jurisdicional, permitindo ao juiz, no caso concreto, adaptar o procedimento às peculiaridades da causa que lhe é submetida; c) negocial: o procedimento é adequado pelas próprias partes, negocialmente.” (DIDIER, Fredie. Curso de Direito Processual Civil. Vol. 1. 17º ed. Salvador: Juspodivm, 2015, pp. 
+
+114-116). O eminente processualista baiano, fundado nas lições de Galeno de Lacerda, aponta três “critérios de adequação”: o subjetivo, o objetivo e o teleológico. Mais adiante afirma: “Três são, basicamente, os critérios objetivos de que se vale o legislador para adequar a tutela jurisdicional pelo procedimento: um, a natureza do direito litigioso, cuja relevância impõe uma modalidade de tutela diferenciada; o segundo, a evidência como se apresenta o direito material no processo; o terceiro, a situação processual da urgência.”
+
+[^fn3]: ZABALA, Filipe Jaeger; SILVEIRA, Fabiano Feijó. Jurimetria: estatística aplicada ao direito. **Revista Direito e Liberdade**, Natal, v. 16, n. 1, p. 87-103, 2014.
