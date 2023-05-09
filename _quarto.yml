@@ -5,7 +5,7 @@ website:
   page-navigation: true
   title: "Lições de Direito Previdenciário" 
   site-url: "https://jusmendonca.github.io/previdenciario/" 
-  repo-url: "https://github.com/jusmendonca/previdenciario.git"
+  repo-url: "https://https://jusmendonca.quarto.pub/previdenciario/"
   repo-actions: [edit, source, issue]
   favicon: images/favicon.ico
   
@@ -15,7 +15,6 @@ website:
   
   sidebar:
     background: "#D9E3E4"
-    logo: "https://raw.githubusercontent.com/nmfs-opensci/assets/main/logo/nmfs-opensci-logo3.png"
     favicon: images/favicon.ico
     pinned: true
     align: center
